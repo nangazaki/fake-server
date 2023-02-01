@@ -18,7 +18,7 @@
       "id": 6,
       "titulo": "The Last Of Us já é a melhor adaptação de um jogo? Veja impressões da série",
       "descricao": "Pode parecer conversa afiada, mas quando falamos em livros e filmes falamos de duas maneiras muito parecidas de contar histórias...",
-      "capa": "./uploads/tlou.jpg",
+      "capa": "https://raw.githubusercontent.com/heldercambuta/fake-server/main/uploads/tlou.jpg?token=GHSAT0AAAAAAB364LK7D23FBF3FZ647LF7CY62K6OA",
       "categoria": "Series",
       "autor": "Helder Cambuta",
       "destaque": true,
